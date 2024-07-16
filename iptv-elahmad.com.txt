@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",kanal d b
+http://tgn.bozztv.com/gin-36bay4/gt-kanald-2/tracks-v1a1/mono.m3u8?nimblesessionid=135139870&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEyOjUzOjE1IFBNJmhhc2hfdmFsdWU9WjhQUGUvRmN0bWJEWTBsTWpIeE5Ndz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIy
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",showtv b
+http://tgn.bozztv.com/gin-trn09/gin-showtv/tracks-v1a1/mono.m3u8?nimblesessionid=135150040&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEyOjU5OjQ0IFBNJmhhc2hfdmFsdWU9TVIzOFlqZ0Q0V0tWRGtteUZJVGNkZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",showtv m
+https://cdn402.canlitv.me/showtv.m3u8?tkn=ya_y9WUHqjQO8IU6XjiSJw&tms=1721067262&hst=www.canlitv.me&ip=12.12.12.12
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",360 b
+http://tgn.bozztv.com/gin-dvrfl05/gin-sky360/tracks-v1a1/mono.m3u8?nimblesessionid=135156291&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDE6MDM6MTkgUE0maGFzaF92YWx1ZT1oZmFRd1UzRU51QjNTUEtUdFlpVmNBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",kanal d b
+https://bozztv.com/gin-36bay3/gt-Kanald-back/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",kanal d m
+https://cdn401.canlitv.me/kanald.m3u8?tkn=FOIEG5Yp2p4yv6kcyiWSRg&tms=1721063937&hst=www.canlitv.me&ip=2a02:8071:61a0:1200:8c77:49aa:89ca:d562
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",kanal d m
+https://cdn401.canlitv.me/kanald.m3u8?tkn=FOIEG5Yp2p4yv6kcyiWSRg&tms=1721063937&hst=www.canlitv.me&ip=12.12.12.12.12
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",kanal dem
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?hash=3b9e8cb2f7ddc3fffd8c624e89b4ed0c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",tv360 c.com
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",trt1 c.com
+https://tv-trt1-dai.medya.trt.com.tr/master_720p.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",startv c.com
+https://dogus-live.daioncdn.net/startv/startv.m3u8?hash=a01a286ae97a5b19738c5edcc2bef356
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",atv me
+https://cdn11.canlitv.me/atv.m3u8?tkn=Y3jAPvlYlPoPmphUYC3TNg&tms=1721075711&hst=www.canlitv.me&ip=01.01.01.01
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",tele1 b
+http://tgn.bozztv.com/gin-dvrfl05/gin-tele1/tracks-v1a1/mono.m3u8?nimblesessionid=135845630&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDc6MTI6MDUgUE0maGFzaF92YWx1ZT000000000000000000000000000000000000000WRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",tele1 bb
+http://tgn.bozztv.com/gin-dvrfl05/gin-tele1/tracks-v1a1/mono.m3u8?nimblesessionid=135987882&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDg6Mjg6NDAgUE0maGFzaF92YWx1ZT1Ud1RsM25xNTVWS2hsaWtORk4yNWxRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",halktv
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+
